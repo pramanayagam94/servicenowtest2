@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_29271_innovate2_innovate2">x_29271_innovate2_innovate2</category>
+        <maximum_digits>7</maximum_digits>
+        <number>3000</number>
+        <prefix>INNOV</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-25 13:57:35</sys_created_on>
+        <sys_id>776c8660dbef7300b1a6656b4b96199a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>INNOV</sys_name>
+        <sys_package display_value="Innovate2" source="x_29271_innovate2">d5ab1290db277300b1a6656b4b96197f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate2">d5ab1290db277300b1a6656b4b96197f</sys_scope>
+        <sys_update_name>sys_number_776c8660dbef7300b1a6656b4b96199a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-25 13:57:35</sys_updated_on>
+    </sys_number>
+</record_update>

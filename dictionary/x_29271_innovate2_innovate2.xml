@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Innovate2" max_length="40" name="x_29271_innovate2_innovate2" type="collection">
+        <element label="Idea Implemented" max_length="40" name="idea_implemented2" type="boolean"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" mandatory="true" max_length="1000" name="u_description_2" type="string"/>
+        <element label="New Due Date" max_length="40" name="u_due_date_1" type="due_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="process2" label="Idea Type2" mandatory="true" max_length="40" name="u_idea_type2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Cost Savings" sequence="0" value="cost2"/>
+                <element inactive_on_update="false" label="Process Improvement" sequence="1" value="process2"/>
+                <element inactive_on_update="false" label="Team Building" sequence="2" value="team2"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" mandatory="true" max_length="125" name="u_short_description2" type="string"/>
+    </element>
+</database>
